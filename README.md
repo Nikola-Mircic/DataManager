@@ -1,2 +1,2 @@
-# DataManagerServer
-Server for handling files
+# Data Manager
+Application for handling files
